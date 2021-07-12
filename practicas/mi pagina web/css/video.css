@@ -1,0 +1,28 @@
+* {
+    background-color: pink;
+}
+
+h1 {
+    text-align: center;
+}
+
+iframe {
+    position: relative;
+    width: 420px;
+    height: 315px;
+    padding: 50px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    padding: 15px 20px 15px 20px;
+    display: inline-block;
+    color: #2d3646;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    padding: 15px 20px 15px 20px;
+    display: inline-block;
+    color: rgb(24, 23, 23);
+}

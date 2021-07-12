@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    color: rgba(240, 137, 194, 0.897);
+}
+
+h1 header nav ul li {
+    list-style: none;
+    float: left;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    padding: 15px 20px 15px 20px;
+    display: inline-block;
+    color: #2d3646;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    padding: 15px 20px 15px 20px;
+    display: inline-block;
+    background-color: #e52fb7;
+    color: rgb(24, 23, 23);
+}
+
+main {
+    position: relative;
+    background-color: transparent;
+    width: 1300px;
+    text-align: center;
+}
+
+main img {
+    max-width: 100%;
+    height: 200px;
+    margin: 30px;
+}
+
+body {
+    background-image: url(../img/descarga.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
